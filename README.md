@@ -25,7 +25,7 @@ Source : [https://www.kaggle.com/justinas/nba-players-data)
 
 
 
-PROJECT GOALS
+PROJECT OBJECTIVE
 ---
 
 Predicting whether a player will be eligible to play professionally or not and then comparing Machine Learning Models and deciding which to use, and doing a few Feature engineering and Hyperparameter tuning to improve the chosen model.
