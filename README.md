@@ -1,4 +1,4 @@
-# NBA-Players-Eligibility
+# NBA Players Eligibility
 
 by : Fachri Ardiansyah
 
