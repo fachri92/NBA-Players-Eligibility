@@ -7,7 +7,7 @@ Dataset:
 - new_players.csv
 Source : [https://www.kaggle.com/justinas/nba-players-data)
 
-(https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
+![nba](https://images.unsplash.com/photo-1499754162586-08f451261482?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max)
 
 ### Requirements
 1. Windows 10
